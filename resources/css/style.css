@@ -1,0 +1,37 @@
+.flexcontainer
+{
+   font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    display:flex;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    align-items: center;
+border-bottom: solid;
+border-width: thin;
+}
+.logo
+{
+  color: MediumAquamarine;
+width: 900px;
+}
+.flexcontainer img
+{
+width: 70px;
+height: 60px;
+margin-right:12px;
+}
+.navigation
+{
+    display:block;
+    padding-right: : 40px;
+}
+.navigation span
+{
+  display: inline-block;
+  padding: 20px 10px;
+}
+
+span{
+  color: black;
+}
